@@ -1,0 +1,137 @@
+
+/* @import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap'); */
+
+body{
+  font-family: "Open Sans", sans-serif;
+  /* font-optical-sizing: auto; */
+  
+  font-style: normal;
+  /* font-variation-settings:
+    "wdth" 100; */
+   
+   background-color: rgb(255, 255, 255);
+}
+.main{
+  background-color: black;
+  width: 97%;
+  /* padding: 50px; */
+  margin: 20px;
+  border-radius: 50px;
+  
+  height: 490px;
+  display: flex;
+}
+
+.i1{
+
+  /* background-color: red; */
+  width: 70%;
+
+  
+
+
+
+}
+
+.i2 {
+  width: 30%;
+  padding-left: 30px;
+  margin: 20px;
+  display: block;
+  margin: auto;
+  margin-bottom: 200px;
+
+
+  color: white;
+}
+.i3{
+  width: 60px;
+  /* background-color: white; */
+  background-image: linear-gradient(to right, rgb(0, 0, 0) , rgba(255, 255, 255, 0.408));
+
+}
+
+.i1 .p1,.p2,.p3{
+  
+  margin-left: 150px;
+  margin-bottom: 20px;
+  width: 60%;
+  
+  height: 97px;
+  color: white;
+  font-size: larger;
+  
+  background-color: rgb(0, 0, 0);
+  border-radius: 20px;
+  
+
+}
+.i1 p{
+
+  text-align: center;
+  padding-top: 5px;
+  font-size: 23px;
+  font-weight: bold;
+}
+
+
+input{
+
+  /* margin-left: 100px; */
+  
+  /* align-items: center; */
+  display: block;
+  margin: auto;
+  border: none;
+  border-radius: 15px;
+  width: 200px;
+  height: 30px;
+
+  
+
+
+
+}
+
+
+div p{
+  font-size: 20px;
+  
+}
+button{
+  display: block;
+  margin: auto;
+  border: none;
+  margin-top: 50px;
+  height: 50px;
+  width: 140px;
+  border-radius: 30px;
+  cursor: pointer;
+  transition: 2ms;
+  font-size: 20px;
+  font-weight: bolder;
+  color: rgb(0, 0, 0);
+  /* background-color: rgb(158, 158, 158); */
+  background-image: linear-gradient(to right, rgba(255, 255, 255, 0.666) , rgba(255, 255, 255, 0.597));
+
+
+}
+
+button :hover{
+  
+
+  
+}
+
+.final-val{
+  background-color: rgb(69, 69, 69);
+  margin-right: 20px;
+  padding-left: 20px;
+  font-size: 50px;
+  
+  font-weight: bolder;
+  
+  border-radius: 5px;
+
+}
+
