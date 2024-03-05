@@ -1,5 +1,8 @@
-//ReactJS SIP Calculator
-This is a simple ReactJS project built to calculate the maturity amount of a monthly SIP (Systematic Investment Plan).
+WealthWise: Financial Investment Calculator 
+
+WealthWise is a comprehensive financial investment calculator built using React.js, HTML, CSS, JavaScript, and Bootstrap. 
+
+This versatile tool allows users to analyze the returns on various investment strategies including SIP (Systematic Investment Plan), SWP (Systematic Withdrawal Plan), compound interest, and EMI calculations. With intuitive user interface design and robust functionality, WealthWise empowers individuals to make informed decisions about their financial future by providing accurate projections and insights into their investment portfolios. 
 
 //Installation
 To run this project locally, follow these steps:
@@ -8,7 +11,7 @@ To run this project locally, follow these steps:
 git clone <repository-url>
 
 //Navigate to the project directory:
-cd react-sip-calculator
+cd WeathWise/random-one
 
 //Install dependencies:
 npm install
@@ -16,7 +19,4 @@ npm install
 //Start the development server:
 npm start/Open your browser and visit http://localhost:3000 to view the application.
 
-//Usage
-Enter the principal amount, monthly investment, time period in years, and annual interest rate in the respective input fields.
-Click the "Calculate" button to compute the maturity amount.
-The calculated maturity amount will be displayed.
+
